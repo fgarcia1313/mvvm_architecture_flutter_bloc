@@ -46,7 +46,8 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^5.0.0
 
-  flutter_riverpod:
+  flutter_bloc:
+  equatable:
   go_router:
   # firebase y google
   firebase_core:
